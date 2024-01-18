@@ -1,0 +1,19 @@
+.chat_indicator {
+    background: linear-gradient(to bottom, #410080, #F6F3F9);
+    top: 20%;
+    height: 40% !important;
+}
+
+.progress_bar {
+    background: linear-gradient(to bottom right, #82E2F4, #8A8AED);
+}
+
+.spinner_button:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to right, #8d65e9, #5391e4, #6bcd94);
+}
